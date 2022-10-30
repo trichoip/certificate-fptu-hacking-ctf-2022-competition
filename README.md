@@ -1,5 +1,5 @@
 # certificate-fptu-hacking-ctf-2022-competition
 
-[![Build and deploy JAR app to Azure Web App - etransportation-webapp-api](https://github.com/fourmen-manchester-united/swp391-eTransportationSystem/actions/workflows/main_etransportation-webapp-api.yml/badge.svg)](https://github.com/fourmen-manchester-united/swp391-eTransportationSystem/actions/workflows/main_etransportation-webapp-api.yml)
+[![Certificate FPTU Hacking CTF 2022 Competition](https://github.com/trichoip/certificate-fptu-hacking-ctf-2022-competition)](https://github.com/trichoip/certificate-fptu-hacking-ctf-2022-competition)
 
 ![alt](img/IMG_8147.jpeg)
